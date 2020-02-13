@@ -1,177 +1,135 @@
 {
-  "mainData": [
+  "profile": {
+    "id": "1",
+    "name": "Henry Nixon",
+    "userName": "admin",
+    "password": "123",
+    "faceUrl": "https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/68.png"
+  },
+  "story": [
     {
-      "id": "1",
-      "name": "Henry Nixon",
-      "userName": "admin",
-      "password": "123",
-      "faceUrl": "https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/68.png",
-      "storyUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "frends": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        },
-        {
-          "id": "3"
-        }
-      ],
-      "post": {
-        "detail": [
-          {
-            "time": "24 mins",
-            "description": "Respect",
-            "postUrl": "https://www.archive.voicesofyouth.org/assets/572d0d75b38e2-full_cropped.jpeg",
-            "liks": 4,
-            "hart": 2,
-            "comment": 2,
-            "commentDescription": [
-              {
-                "description": "nice",
-                "sender": "jesy jesy",
-                "time": "45 mins"
-              },
-              {
-                "description": "Lovely",
-                "sender": "Aliya",
-                "time": "1 hour"
-              }
-            ]
-          },
-          {
-            "time": "45 mins",
-            "description": "Beautiful",
-            "postUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
-            "liks": 8,
-            "hart": 10,
-            "comment": 2,
-            "commentDescription": [
-              {
-                "description": "nice",
-                "sender": "Joseph",
-                "time": "2 hour"
-              },
-              {
-                "description": "Lovely",
-                "sender": "Robert",
-                "time": "1 hour"
-              }
-            ]
-          }
-        ]
-      }
+      "storyOner": "Henry Nixon",
+      "storyUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
     },
     {
-      "id": "2",
-      "name": "Anthony Piers",
-      "userName": "admin",
-      "password": "1234",
-      "faceUrl": "https://www.seoclerk.com/pics/319222-1IvI0s1421931178.png",
-      "storyUrl": "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-      "frends": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        }
-      ],
-      "post": {
-        "detail": [
-          {
-            "time": "24 mins",
-            "description": "Beautiful",
-            "postUrl": "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "liks": 8,
-            "hart": 10,
-            "comment": 1,
-            "commentDescription": [
-              {
-                "description": "nice",
-                "sender": "Henry Nixon",
-                "time": "45 mins"
-              }
-            ]
-          },
-          {
-            "time": "45 mins",
-            "description": "",
-            "postUrl": "https://webmeup.com/upload/blog/lead-image-105.png",
-            "liks": 8,
-            "hart": 10,
-            "comment": 0,
-            "commentDescription": [
-              {
-                "description": "",
-                "sender": "",
-                "time": ""
-              }
-            ]
-          }
-        ]
-      }
+      "storyOner": "Jesy jesy",
+      "storyUrl": "https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
     },
     {
-      "id": "3",
-      "name": "Jesy jesy",
-      "userName": "jesy",
-      "password": "123",
-      "faceUrl": "https://www.seoclerk.com/pics/319222-27PU1f1421931178.png",
-      "storyUrl": "https://frasesparami.com/wp-content/uploads/2018/02/happy-birthday-pictures.jpg",
-      "frends": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "3"
-        }
-      ],
-      "post": {
-        "detail": [
-          {
-            "time": "26 mins",
-            "description": "Respect",
-            "postUrl": "https://050128.com/data/out/8/3940580-desktop-images.jpg",
-            "liks": 8,
-            "hart": 3,
-            "comment": 2,
-            "commentDescription": [
-              {
-                "description": "nice",
-                "sender": "jesy jesy",
-                "time": "45 mins"
-              },
-              {
-                "description": "Lovely",
-                "sender": "Aliya",
-                "time": "1 hour"
-              }
-            ]
-          },
-          {
-            "time": "35 mins",
-            "description": "Beautiful",
-            "postUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
-            "liks": 8,
-            "hart": 10,
-            "comment": 2,
-            "commentDescription": [
-              {
-                "description": "nice",
-                "sender": "Joseph",
-                "time": "2 hour"
-              },
-              {
-                "description": "Lovely",
-                "sender": "Robert",
-                "time": "1 hour"
-              }
-            ]
-          }
-        ]
-      }
+      "storyOner": "Anthony Piers",
+      "storyUrl": "https://frasesparami.com/wp-content/uploads/2018/02/happy-birthday-pictures.jpg"
+    },
+    {
+      "storyOner": "Butler Samuel",
+      "storyUrl": "https://i.pinimg.com/originals/ea/bd/5b/eabd5ba1543e68faa9d1bbc9d9f0f0da.jpg"
+    },
+    {
+      "storyOner": "Henry",
+      "storyUrl": "https://image.freepik.com/free-photo/image-human-brain_99433-298.jpg"
     }
-  ]
+  ],
+  "post": {
+    "detail": [
+      {
+        "ownerName": "Henry Nixon",
+        "time": "24 mins",
+        "description": "Respect",
+        "postUrl": "https://www.archive.voicesofyouth.org/assets/572d0d75b38e2-full_cropped.jpeg",
+        "liks": 4,
+        "hart": 2,
+        "comment": 2,
+        "commentDescription": [
+          {
+            "description": "nice",
+            "sender": "jesy jesy",
+            "time": "45 mins"
+          },
+          {
+            "description": "Lovely",
+            "sender": "Aliya",
+            "time": "1 hour"
+          }
+        ]
+      },
+      {
+        "ownerName": "Jesy jesy",
+        "time": "45 mins",
+        "description": "Beautiful",
+        "postUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "liks": 8,
+        "hart": 10,
+        "comment": 2,
+        "commentDescription": [
+          {
+            "description": "nice",
+            "sender": "Joseph",
+            "time": "2 hour"
+          },
+          {
+            "description": "Lovely",
+            "sender": "Robert",
+            "time": "1 hour"
+          }
+        ]
+      },
+      {
+        "ownerName": "Henry",
+        "time": "26 mins",
+        "description": "Respect",
+        "postUrl": "https://050128.com/data/out/8/3940580-desktop-images.jpg",
+        "liks": 8,
+        "hart": 3,
+        "comment": 2,
+        "commentDescription": [
+          {
+            "description": "nice",
+            "sender": "jesy jesy",
+            "time": "45 mins"
+          },
+          {
+            "description": "Lovely",
+            "sender": "Aliya",
+            "time": "1 hour"
+          }
+        ]
+      },
+      {
+        "ownerName": "Anthony Piers",
+        "time": "35 mins",
+        "description": "Beautiful",
+        "postUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+        "liks": 8,
+        "hart": 10,
+        "comment": 2,
+        "commentDescription": [
+          {
+            "description": "nice",
+            "sender": "Joseph",
+            "time": "2 hour"
+          },
+          {
+            "description": "Lovely",
+            "sender": "Robert",
+            "time": "1 hour"
+          }
+        ]
+      },
+      {
+        "ownerName": "Butler Samuel",
+        "time": "45 mins",
+        "description": "",
+        "postUrl": "https://webmeup.com/upload/blog/lead-image-105.png",
+        "liks": 8,
+        "hart": 10,
+        "comment": 0,
+        "commentDescription": [
+          {
+            "description": "",
+            "sender": "",
+            "time": ""
+          }
+        ]
+      }
+    ]
+  }
 }

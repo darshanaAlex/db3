@@ -39,6 +39,7 @@
         "liks": 4,
         "hart": 2,
         "comment": 2,
+        "shares": 2,
         "commentDescription": [
           {
             "description": "nice",
@@ -61,6 +62,7 @@
         "liks": 8,
         "hart": 10,
         "comment": 2,
+        "shares": 2,
         "commentDescription": [
           {
             "description": "nice",
@@ -83,6 +85,7 @@
         "liks": 8,
         "hart": 3,
         "comment": 2,
+        "shares": 3,
         "commentDescription": [
           {
             "description": "nice",
@@ -105,6 +108,7 @@
         "liks": 8,
         "hart": 10,
         "comment": 2,
+        "shares": 1,
         "commentDescription": [
           {
             "description": "nice",
@@ -124,9 +128,10 @@
         "time": "45 mins",
         "description": "",
         "postUrl": "https://webmeup.com/upload/blog/lead-image-105.png",
-        "liks": 8,
-        "hart": 10,
+        "liks": 0,
+        "hart": 0,
         "comment": 0,
+        "shares": 2,
         "commentDescription": [
           {
             "description": "",
